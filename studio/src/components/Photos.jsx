@@ -1,5 +1,5 @@
 import React from "react";
-import styles from "./description.module.css";
+import styles from "./Description.module.css";
 
 let RecipePhoto = () => {
   return (
